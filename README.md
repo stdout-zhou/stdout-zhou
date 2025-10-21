@@ -4,3 +4,4 @@
 - 🌱 I’m focus on learning ml sys.
 - 🤔 I participated in algorithm competitions during my school years.
 - 📫 How to reach me: stdoutzhou@gmail.com
+- 😊 Fun fact: I am also a C++ programming enthusiast.
